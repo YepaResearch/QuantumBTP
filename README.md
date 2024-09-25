@@ -1,3 +1,1 @@
 # QuantumBTP
-
-## QUANTUM COSTAM
